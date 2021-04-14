@@ -7,3 +7,4 @@ _build/
 obj/
 *.*proj
 bin/
+*pycache*
