@@ -2,3 +2,8 @@ data/
 dune*
 _build/
 .merlin*
+.fake
+.ionide
+obj/
+*.*proj
+bin/
